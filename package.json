@@ -1,4 +1,5 @@
 {
+"type": "module",
   "name": "gegga-insta-proxy",
   "version": "1.0.0",
   "description": "GeGGa Instagram proxy: download posts/reels and (optionally) stories via instaloader",
@@ -14,4 +15,5 @@
   "engines": {
     "node": ">=18"
   }
+  
 }
